@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"<Unnamed>","c":"Calculadora","l":"Calculadora(int, int)","url":"%3Cinit%3E(int,int)"},{"p":"<Unnamed>","c":"Calculadora","l":"divide()"},{"p":"<Unnamed>","c":"Calculadora","l":"multiplica()"},{"p":"<Unnamed>","c":"Calculadora","l":"resta()"},{"p":"<Unnamed>","c":"Calculadora","l":"suma()"}]
